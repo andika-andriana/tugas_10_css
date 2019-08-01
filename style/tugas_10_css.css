@@ -1,0 +1,18 @@
+div{
+  width:1670px;
+  height:870px;
+  background-repeat: no-repeat;
+  background-image:radial-gradient( at top right, white,red);
+}
+div.satu{
+  width:800px;
+  height:500px;
+  margin:0 auto;
+  background-image:radial-gradient( at bottom, white,blue);
+}
+div.dua{
+  width:800px;
+  height:240px;
+  margin:0 auto;
+  background-image:linear-gradient(90deg,white,blue,white);
+}
